@@ -1,0 +1,9 @@
+{
+    "file": "bitblock-circuit.bin",
+    "version": "20261008-1136",
+    "circuitpython": "10.3.1-dirty on 2026-10-08",
+    "board": "BitBlock Mini with ESP32S3",
+    "built": "2026-10-08 11:36",
+    "size": 2067504,
+    "sha256": "c63659db4678543c8d20f889598edd43251bc17977329d616315071a8f846154"
+}
